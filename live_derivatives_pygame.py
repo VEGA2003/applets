@@ -5,7 +5,7 @@ pg.init()
 
 # Setting window size
 win_x = 1000
-win_y = 1000
+win_y = 600
 
 sidebar_width = 100
 
